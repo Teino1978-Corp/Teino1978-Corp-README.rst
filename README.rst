@@ -1,4 +1,4 @@
-# OpenStack Ansible
+#OpenStack Ansible
 OpenStack-Ansible is an official OpenStack project which aims to deploy production environments from source in a way that makes it scalable while also being simple to operate, upgrade, and grow.
 
 For an overview of the mission, repositories and related Wiki home page, please see the formal Home Page for the project.
